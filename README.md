@@ -2,6 +2,14 @@
 ## Disclaimer 
 ### Antes de rodar o código escrevam os seguintes comando no promp
 
+O Github bloqueia os arquivos .env -> sendo assim, antes de rodar criem um arquivo .env na raiz e colem as seguinte variáveis 
+
+~~~javascript
+DATABASE_USER=postgres
+DATABASE_PASSWORD=senha
+DATABASE_NAME=backend
+~~~
+
 - npm install yarn -g  _Intala o gerenciador de pacotes yarn de modo global (-g)_
 
 - yarn install _instala as dependências presentes no package.json_
