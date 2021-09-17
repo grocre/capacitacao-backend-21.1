@@ -12,7 +12,7 @@ DATABASE_NAME=backend
 
 ### Também escrevam os seguintes comandos no prompt
 
-- npm install yarn -g  _Intala o gerenciador de pacotes yarn de modo global (-g)_
+- npm install yarn -g  _Instala o gerenciador de pacotes yarn de modo global (-g)_
 
 - yarn install _instala as dependências presentes no package.json_
 
