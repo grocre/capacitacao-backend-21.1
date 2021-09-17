@@ -1,6 +1,6 @@
 
 ## Disclaimer 
-### Antes de rodar o código escrevam os seguintes comando no promp
+
 
 O Github bloqueia os arquivos .env -> sendo assim, antes de rodar criem um arquivo .env na raiz e colem as seguinte variáveis 
 
@@ -10,9 +10,13 @@ DATABASE_PASSWORD=senha
 DATABASE_NAME=backend
 ~~~
 
+### Antes de rodar o código escrevam os seguintes comandos no prompt
+
 - npm install yarn -g  _Intala o gerenciador de pacotes yarn de modo global (-g)_
 
 - yarn install _instala as dependências presentes no package.json_
+
+***
 
 - yarn add express   _Framework para desenvolvimento de rotas e apis de backend_
 
