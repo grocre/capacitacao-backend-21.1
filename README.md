@@ -10,7 +10,7 @@ DATABASE_PASSWORD=senha
 DATABASE_NAME=backend
 ~~~
 
-### Antes de rodar o código escrevam os seguintes comandos no prompt
+### Também escrevam os seguintes comandos no prompt
 
 - npm install yarn -g  _Intala o gerenciador de pacotes yarn de modo global (-g)_
 
